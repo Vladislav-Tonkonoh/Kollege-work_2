@@ -1,0 +1,32 @@
+.advantages {
+    min-height: 100vh;
+    padding: 80px 20px;
+    background-color: #1f2833;
+    box-sizing: border-box;
+}
+
+.advantages h2 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.adv-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.adv-card {
+    background-color: #0b0c10;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.adv-card h3 {
+    color: #01ff23;
+}
